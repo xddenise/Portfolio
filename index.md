@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## UBC Tantan
+![Tantan](./images/Tantan.png)
 
-You can use the [editor on GitHub](https://github.com/xddenise/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- fully featured and responsive social networking web application that allows users to post, like, comment, add friends, and chat in groups
+- _React, Redux, TypeScript, Node, Express, MongoDB, Mongoose_
+- [Link to App](https://ubctantan.duckdns.org)
+- [Link to Repo](https://github.com/ZijiaZhang/CPSC436_Project)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## SuperRent
+![ERDiagram](./images/SuperRentDiagram.png)
+
+- [Link to Repo](https://github.com/shirleyyxw/SuperRent)
 
 ### Markdown
 
